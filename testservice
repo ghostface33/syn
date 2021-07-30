@@ -1,1 +1,1 @@
-print()
+alert("XSS Vurn Found")
